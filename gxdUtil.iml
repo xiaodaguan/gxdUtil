@@ -24,8 +24,8 @@
     <orderEntry type="library" name="Maven: com.kenai.nbpwr:org-apache-commons-pool:1.4-201002241055" level="project" />
     <orderEntry type="library" name="Maven: commons-pool:commons-pool:1.4" level="project" />
     <orderEntry type="library" name="Maven: ojdbc:ojdbc:14" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.solr:solr-solrj:5.5.2" level="project" />
-    <orderEntry type="library" name="Maven: commons-io:commons-io:2.4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.solr:solr-solrj:6.5.1" level="project" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:2.5" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpclient:4.4.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.4.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpmime:4.4.1" level="project" />
@@ -34,7 +34,5 @@
     <orderEntry type="library" name="Maven: org.codehaus.woodstox:woodstox-core-asl:4.4.1" level="project" />
     <orderEntry type="library" name="Maven: org.noggit:noggit:0.6" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:jcl-over-slf4j:1.7.7" level="project" />
-    <orderEntry type="library" name="Maven: junit:junit:4.12" level="project" />
-    <orderEntry type="library" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
   </component>
 </module>
